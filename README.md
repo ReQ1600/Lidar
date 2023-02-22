@@ -2,7 +2,7 @@
 
 # NOT FINISHED YET!
 
-A simple (not very accurate) tool, that uses a laser Time Of Flight sensor to measure distance in 360 radius around itself, and send it through bluetooth to connected android phone that will display all the points and connect them, phone will also control everything.
+A simple (not very accurate) tool, that uses a laser Time Of Flight sensor to measure distance in 360 radius around itself, and send it through bluetooth to connected android phone that will display all the points and connect them, phone will also control everything. The app will be written in Java.
 
 It is created using:
 * Arduino Uno
